@@ -1,9 +1,5 @@
 ## Read in csv
-<<<<<<< HEAD
-##It doesnt really work anymore, changed
-=======
-##Changing thingz
->>>>>>> e9dd0aa83a1b7dcd2b3843f55b031f26d222b05f
+
 library(tidyverse)
 library(here)
 
